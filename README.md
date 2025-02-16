@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm christophecflrcarson546
 
-<!--
-**christophecflrcarson546/christophecflrcarson546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🎣 Hacking on developer advocacy 🚵 🎣
 
-Here are some ideas to get you started:
+## About Me
+🎰 📚 A coder in web development 🎰 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🚴 🏑 Enthusiastic about game development 🛹 🚴 🏑
+
+### Fun Facts
+🏑 🎪 Working on data structures 🏑 🎪
+
+---
+🎯 🎱 🥊 🎾 🏏 Thanks for visiting my profile! 🏸 🎪 🚵 🏑 🎮
